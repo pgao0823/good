@@ -2,3 +2,6 @@
 
 1、
 [Android 开发工程师面试指南 ](https://github.com/francistao/LearningNotes)
+
+2、
+[高仿微信6.5.7（融云版）](https://github.com/pgao0823/LQRWeChat)
