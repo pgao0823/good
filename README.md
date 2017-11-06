@@ -5,3 +5,6 @@
 
 2、
 [高仿微信6.5.7（融云版）](https://github.com/pgao0823/LQRWeChat)
+
+3、
+[国强整理的很全面的资料](https://github.com/yeguoqiang/Resources)
